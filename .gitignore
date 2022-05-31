@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.pt  
+#ignore all the pt file 
+*.out 
+#ignore the nohup output
+*.pyc
+*.m2
